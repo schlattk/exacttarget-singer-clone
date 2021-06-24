@@ -39,7 +39,6 @@ REQUIRED_CONFIG_KEYS = [
 AVAILABLE_STREAM_ACCESSORS = [
     CampaignDataAccessObject,
     ContentAreaDataAccessObject,
-    DataExtensionDataAccessObject,
     EmailDataAccessObject,
     EventDataAccessObject,
     FolderDataAccessObject,
